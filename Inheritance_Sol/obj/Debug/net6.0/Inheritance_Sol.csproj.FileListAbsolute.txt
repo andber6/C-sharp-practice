@@ -1,0 +1,15 @@
+C:\OSL\Inheritance_Sol\Inheritance_Sol\bin\Debug\net6.0\Inheritance_Sol.exe
+C:\OSL\Inheritance_Sol\Inheritance_Sol\bin\Debug\net6.0\Inheritance_Sol.deps.json
+C:\OSL\Inheritance_Sol\Inheritance_Sol\bin\Debug\net6.0\Inheritance_Sol.runtimeconfig.json
+C:\OSL\Inheritance_Sol\Inheritance_Sol\bin\Debug\net6.0\Inheritance_Sol.dll
+C:\OSL\Inheritance_Sol\Inheritance_Sol\bin\Debug\net6.0\Inheritance_Sol.pdb
+C:\OSL\Inheritance_Sol\Inheritance_Sol\obj\Debug\net6.0\Inheritance_Sol.csproj.AssemblyReference.cache
+C:\OSL\Inheritance_Sol\Inheritance_Sol\obj\Debug\net6.0\Inheritance_Sol.GeneratedMSBuildEditorConfig.editorconfig
+C:\OSL\Inheritance_Sol\Inheritance_Sol\obj\Debug\net6.0\Inheritance_Sol.AssemblyInfoInputs.cache
+C:\OSL\Inheritance_Sol\Inheritance_Sol\obj\Debug\net6.0\Inheritance_Sol.AssemblyInfo.cs
+C:\OSL\Inheritance_Sol\Inheritance_Sol\obj\Debug\net6.0\Inheritance_Sol.csproj.CoreCompileInputs.cache
+C:\OSL\Inheritance_Sol\Inheritance_Sol\obj\Debug\net6.0\Inheritance_Sol.dll
+C:\OSL\Inheritance_Sol\Inheritance_Sol\obj\Debug\net6.0\refint\Inheritance_Sol.dll
+C:\OSL\Inheritance_Sol\Inheritance_Sol\obj\Debug\net6.0\Inheritance_Sol.pdb
+C:\OSL\Inheritance_Sol\Inheritance_Sol\obj\Debug\net6.0\Inheritance_Sol.genruntimeconfig.cache
+C:\OSL\Inheritance_Sol\Inheritance_Sol\obj\Debug\net6.0\ref\Inheritance_Sol.dll
